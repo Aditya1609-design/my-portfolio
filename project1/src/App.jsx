@@ -9,7 +9,7 @@ import Skills from './sections/Skills';
 
 const App = () => {
   return (
-    <div className="font-sans">
+    <div className="font-sans pt-9">
       <Navbar />
       <Hero />
       <About />

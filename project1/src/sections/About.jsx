@@ -15,7 +15,7 @@ const About = () => {
   whileInView={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.8, ease: "easeOut" }}
   viewport={{ once: false, amount: 0.3 }}
-  className="bg-gradient-to-br from-slate-800 via-slate-900 to-slate-800 shadow-2xl border border-indigo-500 rounded-2xl px-6 sm:px-10 md:px-16 py-14 max-w-6xl w-full text-center space-y-12"
+  className="bg-gradient-to-br from-slate-800 via-slate-900 to-slate-800 shadow-2xl  rounded-2xl px-6 sm:px-10 md:px-16 py-14 max-w-6xl w-full text-center space-y-12"
 >
 
         <h2 className="text-4xl font-bold text-indigo-400 tracking-wide">

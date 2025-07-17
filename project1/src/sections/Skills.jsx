@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Import skill icons (make sure they exist in assets/skills/)
 import htmlLogo from '../assets/Skills/html.png';
 import cssLogo from '../assets/Skills/css.png';
 import jsLogo from '../assets/Skills/javascript.png';
